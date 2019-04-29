@@ -22,8 +22,11 @@ pod 'SPCommon'
 
 ## Author
 
-panwh, panwenhan_iov@chinamobile.com
+panwh, panwenhan@sina.cn
 
 ## License
 
 SPCommon is available under the MIT license. See the LICENSE file for more info.
+
+convenient functions for me
+c91c473... Initial commit
