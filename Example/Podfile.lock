@@ -1,0 +1,16 @@
+PODS:
+  - SPCommon (0.1.0)
+
+DEPENDENCIES:
+  - SPCommon (from `../`)
+
+EXTERNAL SOURCES:
+  SPCommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SPCommon: 1b094e52ac3cce5a63fed04d3e841825c5b106d0
+
+PODFILE CHECKSUM: b10d87447522622685768c4772341fb9194f79de
+
+COCOAPODS: 1.6.1
